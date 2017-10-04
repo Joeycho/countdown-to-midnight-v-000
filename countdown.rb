@@ -6,5 +6,4 @@ def countdown(num)
     binding.pry
     num--
   end
-
 end
