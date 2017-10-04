@@ -5,5 +5,4 @@ def countdown(num)
     puts "#{num} SECOND(S)!"
     binding.pry
     num--
-  end
 end
